@@ -1,0 +1,52 @@
+body{
+
+    margin:0;
+    padding:0;
+    background:#eeeeee;
+    font-family:Arial;
+
+}
+
+.container{
+
+    width:70%;
+    margin:60px auto;
+    text-align:center;
+    background:white;
+    padding:50px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px gray;
+
+}
+
+input{
+
+    width:300px;
+    padding:10px;
+
+}
+
+button{
+
+    padding:10px 15px;
+    margin:5px;
+    background:#007bff;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background:#0056b3;
+
+}
+
+#para{
+
+    margin-top:40px;
+    font-size:28px;
+
+}
